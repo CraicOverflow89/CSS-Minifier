@@ -32,3 +32,7 @@ $ cssmin src out
 $ cssmin src out -r
 # Same as before including subdirectories
 ```
+
+### See Also
+
+ - [JavaScript Minifer](https://github.com/CraicOverflow89/JavaScript-Minifier)
