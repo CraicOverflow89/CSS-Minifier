@@ -35,4 +35,4 @@ $ cssmin src out -r
 
 ### See Also
 
- - [JavaScript Minifer](https://github.com/CraicOverflow89/JavaScript-Minifier)
+ - [JavaScript Minifier](https://github.com/CraicOverflow89/JavaScript-Minifier)
