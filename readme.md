@@ -12,7 +12,7 @@ Add a `cssmin` script to your PATH, replacing _x.y.z_ with version.
 java -jar /path/to/cssmin-x.y.z.jar "$@"
 
 # windows batch file
-@java -jar /path/to/cssmin-x.y.z.jar %*
+@call java -jar /path/to/cssmin-x.y.z.jar %*
 ```
 
 ### Usage
